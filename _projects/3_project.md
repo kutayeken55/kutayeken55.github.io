@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Self-Driving With CARLA
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/CARLA.png
 importance: 3
 category: work
 ---

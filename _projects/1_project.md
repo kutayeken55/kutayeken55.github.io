@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: UPark
+subtitle: AI-Powered Parking Prediction System
+description: End-to-end machine learning project for parking occupancy forecasting.
+img: assets/img/UPark_Logo.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

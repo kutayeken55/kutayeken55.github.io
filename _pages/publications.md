@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications featured in the International Conference on Agents and Artificial Intelligence (ICAART) and the Conference on Intelligent Autonomous Agents (ICAA).
-nav: true
+nav: false
 nav_order: 2
 ---
 
